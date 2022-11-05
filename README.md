@@ -33,9 +33,9 @@
     
 </table>
 
-[PDI]: https://github.com/KalanaTharusha/COMP1007.git
-[DSA]: https://github.com/KalanaTharusha/COMP1002.git
-[UCP]: https://github.com/KalanaTharusha/COMP1000.git
+[PDI]: "https://github.com/KalanaTharusha/COMP1007.git"
+[DSA]: "https://github.com/KalanaTharusha/COMP1002.git"
+[UCP]: "https://github.com/KalanaTharusha/COMP1000.git"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
