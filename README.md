@@ -25,17 +25,13 @@
     </thead>
     <tbody>
         <tr>
-            <td><p align="center"><a href=[PDI]>PDI</a></p></td>
-            <td><p align="center"><a href=[DSA]>DSA</a><br> <a href=[UCP]>UCP</a></p></td>
+            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1007.git">PDI</a></p></td>
+            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1002.git">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000.git">UCP</a></p></td>
             <td><p align="center">MAD<br> DS<p align="center"></td>
         </tr>
     </tbody>
     
 </table>
-
-[PDI]: "https://github.com/KalanaTharusha/COMP1007.git"
-[DSA]: "https://github.com/KalanaTharusha/COMP1002.git"
-[UCP]: "https://github.com/KalanaTharusha/COMP1000.git"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
