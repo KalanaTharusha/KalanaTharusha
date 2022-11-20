@@ -32,12 +32,10 @@
         <tr>
             <td><a href="https://github.com/KalanaTharusha/COMP1007" target="_blank" rel="noopener noreferrer">
                 <abbr title="Programming Designing and Implementation">PDI</abbr></a></td>
-            
             <td><a href="https://github.com/KalanaTharusha/COMP1002" target="_blank" rel="noopener noreferrer">
                 <abbr title="Data Structures and Algorithms">DSA</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/COMP1000" target="_blank" rel="noopener noreferrer">
                 <abbr title="UNIX and C Programming">UCP</abbr></a></td>
-            
             <td>MAD<br> 
                 DS</td>
         </tr>
