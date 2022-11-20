@@ -37,7 +37,8 @@
                 <a href="https://github.com/KalanaTharusha/COMP1000" target="_blank" rel="noopener noreferrer">
                 <abbr title="UNIX and C Programming">UCP</abbr></a></td>
             <td>MAD<br> 
-                DS</td>
+                <a href="https://github.com/KalanaTharusha/ISYS2014" target="_blank" rel="noopener noreferrer">
+                <abbr title="Database Systems">DS</abbr></a></td>
         </tr>
     </tbody>
     
