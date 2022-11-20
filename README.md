@@ -30,9 +30,16 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/KalanaTharusha/COMP1007">PDI</a></td>
-            <td><a href="https://github.com/KalanaTharusha/COMP1002">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000">UCP</a></td>
-            <td>MAD<br> DS</td>
+            <td><a href="https://github.com/KalanaTharusha/COMP1007" target="_blank" rel="noopener noreferrer">
+                <abbr title="Programming Designing and Implementation">PDI</abbr></a></td>
+            
+            <td><a href="https://github.com/KalanaTharusha/COMP1002" target="_blank" rel="noopener noreferrer">
+                <abbr title="Data Structures and Algorithms">DSA</abbr></a><br> 
+                <a href="https://github.com/KalanaTharusha/COMP1000" target="_blank" rel="noopener noreferrer">
+                <abbr title="UNIX and C Programming">UCP</abbr></a></td>
+            
+            <td>MAD<br> 
+                DS</td>
         </tr>
     </tbody>
     
@@ -44,7 +51,7 @@
 
 <p>
     <ul>
-        <li><a href="https://github.com/KalanaTharusha/Food_App_v03">Food ordering mobile app - Android</a></li>
+        <li><a href="https://github.com/KalanaTharusha/Food_App_v03" target="_blank" rel="noopener noreferrer">Food ordering mobile app - Android</a></li>
     </ul>
 </p>
 
@@ -52,8 +59,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kalanatharusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalanatharusha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kalana-tharusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalanatharusha" height="30" width="40" /></a>
+<a href="https://twitter.com/kalanatharusha" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalanatharusha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kalana-tharusha" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalanatharusha" height="30" width="40" /></a>
 </p>
 
 📫 *kalana.contact@yahoo.com*
