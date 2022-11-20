@@ -41,6 +41,7 @@
 &nbsp;
 
 <p><h3>Projects</h3></p>
+
 <p>
     <ul>
         <li><a href="https://github.com/KalanaTharusha/Food_App_v03">Food ordering mobile app - Android</a></li>
