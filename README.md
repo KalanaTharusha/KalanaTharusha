@@ -13,26 +13,26 @@
 
 <table>
     <thead>
-        <th colspan=6><p align="center">Curtin University - Software Engineering (B Comp)</p></th>
+        <th colspan=6>Curtin University - Software Engineering (B Comp)</th>
     </thead>
     <thead>
-        <th colspan=2><p align="center">1st Year</p></th>
-        <th colspan=2><p align="center">2nd Year</p></th>
-        <th colspan=2><p align="center">3rd Year</p></th>
+        <th colspan=2>1st Year</th>
+        <th colspan=2>2nd Year</th>
+        <th colspan=2>3rd Year</th>
     </thead>
     <thead>
-        <th><p align="center">Sem 1</p></th>
-        <th><p align="center">Sem 2</p></th>
-        <th><p align="center">Sem 1</p></th>
-        <th><p align="center">Sem 2</p></th>
-        <th><p align="center">Sem 1</p></th>
-        <th><p align="center">Sem 2</p></th>
+        <th>Sem 1</th>
+        <th>Sem 2</th>
+        <th>Sem 1</th>
+        <th>Sem 2</th>
+        <th>Sem 1</th>
+        <th>Sem 2</th>
     </thead>
     <tbody>
         <tr>
-            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1007">PDI</a></p></td>
-            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1002">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000">UCP</a></p></td>
-            <td><p align="center">MAD<br> DS<p align="center"></td>
+            <td><a href="https://github.com/KalanaTharusha/COMP1007">PDI</a></td>
+            <td><a href="https://github.com/KalanaTharusha/COMP1002">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000">UCP</a></td>
+            <td>MAD<br> DS</td>
         </tr>
     </tbody>
     
