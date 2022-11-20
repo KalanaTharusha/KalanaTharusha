@@ -30,8 +30,8 @@
     </thead>
     <tbody>
         <tr>
-            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1007.git">PDI</a></p></td>
-            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1002.git">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000.git">UCP</a></p></td>
+            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1007">PDI</a></p></td>
+            <td><p align="center"><a href="https://github.com/KalanaTharusha/COMP1002">DSA</a><br> <a href="https://github.com/KalanaTharusha/COMP1000">UCP</a></p></td>
             <td><p align="center">MAD<br> DS<p align="center"></td>
         </tr>
     </tbody>
