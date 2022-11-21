@@ -36,7 +36,8 @@
                 <abbr title="Data Structures and Algorithms">DSA</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/COMP1000" target="_blank" rel="noopener noreferrer">
                 <abbr title="UNIX and C Programming">UCP</abbr></a></td>
-            <td>MAD<br> 
+            <td><a href="https://github.com/KalanaTharusha/COMP2008" target="_blank" rel="noopener noreferrer">
+                <abbr title="Mobile Application Development">MAD</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/ISYS2014" target="_blank" rel="noopener noreferrer">
                 <abbr title="Database Systems">DS</abbr></a></td>
         </tr>
