@@ -120,7 +120,7 @@
         <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submissiom API</a></li>
     </ul>
      <ul>
-        <li><a href="https://github.com/KalanaTharusha/ISYS2014/tree/master/Assignment" target="_blank" rel="noopener noreferrer">Cricket Database - Console App (Python/MySQL)</a></li>
+        <li><a href="https://github.com/KalanaTharusha/cricket_database" target="_blank" rel="noopener noreferrer">Cricket Database - Console App (Python/MySQL)</a></li>
     </ul>
 </p>
 
