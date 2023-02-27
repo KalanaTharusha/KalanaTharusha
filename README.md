@@ -117,7 +117,7 @@
         <li><a href="https://github.com/KalanaTharusha/Food_App_v03" target="_blank" rel="noopener noreferrer">Food ordering mobile app - Android</a></li>
     </ul>
     <ul>
-        <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submissiom API</a></li>
+        <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submission API</a></li>
     </ul>
      <ul>
         <li><a href="https://github.com/KalanaTharusha/cricket_database" target="_blank" rel="noopener noreferrer">Cricket Database - Console App (Python/MySQL)</a></li>
