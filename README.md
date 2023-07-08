@@ -103,6 +103,10 @@
                 <abbr title="Mobile Application Development">MAD</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/ISYS2014" target="_blank" rel="noopener noreferrer">
                 <abbr title="Database Systems">DS</abbr></a></td>
+            <td><a href="https://github.com/KalanaTharusha/COMP2003" target="_blank" rel="noopener noreferrer">
+                <abbr title="Object Oriented Software Engineering">OOSE</abbr></a><br> 
+                <a href="https://github.com/KalanaTharusha/COMP2006" target="_blank" rel="noopener noreferrer">
+                <abbr title="Operating Systems">OS</abbr></a></td>
         </tr>
     </tbody>
     
