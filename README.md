@@ -2,8 +2,6 @@
 <h3 align="center">An undergraduate at Curtin University Australia.</h3>
 <p><H4>Hi, I'm Kalana. I am a second year Software Engineering Student at Curtin University Australia. Programming units that I have completed so far in below repos.</H4></p>
 
-&nbsp;
-
 <table>
     <thead>
         <th colspan=6>Curtin University - Software Engineering (B Comp)</th>
@@ -42,8 +40,6 @@
     
 </table>
 
-&nbsp;
-
 <p><h3>Projects</h3></p>
 
 <p>
@@ -57,8 +53,6 @@
         <li><a href="https://github.com/KalanaTharusha/cricket_database" target="_blank" rel="noopener noreferrer">Cricket Database - Console App (Python/MySQL)</a></li>
     </ul>
 </p>
-
-&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
