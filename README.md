@@ -44,7 +44,13 @@
 
 <p>
     <ul>
+        <li><a href="https://ccet-ticketing.netlify.app/" target="_blank" rel="noopener noreferrer">Ticket Booking System</a></li>
+    </ul>
+    <ul>
         <li><a href="https://github.com/KalanaTharusha/Food_App_v03" target="_blank" rel="noopener noreferrer">Food ordering mobile app - Android</a></li>
+    </ul>
+    <ul>
+        <li><a href="https://aircraft-kalana.netlify.app/" target="_blank" rel="noopener noreferrer">Aircraft</a></li>
     </ul>
     <ul>
         <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submission API</a></li>
