@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalana</h1>
-<h3 align="center">An undergraduate at Curtin University Australia.</h3>
+<h3 align="center">Undergraduate at Curtin University Australia.</h3>
 <p><H4>Hi, I'm Kalana. I am a second year Software Engineering Student at Curtin University Australia. Programming units that I have completed so far in below repos.</H4></p>
 
 <table>
