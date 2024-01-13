@@ -56,6 +56,9 @@
         <li><a href="https://github.com/KalanaTharusha/heart-disease-project" target="_blank" rel="noopener noreferrer">Predicting heart disease using machine learning</a></li>
     </ul>
     <ul>
+        <li><a href="https://github.com/KalanaTharusha/bulldozer-price-prediction-project" target="_blank" rel="noopener noreferrer">Predicting bulldozer prices using machine learning (Kaggle Competition)</a></li>
+    </ul>
+    <ul>
         <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submission API</a></li>
     </ul>
      <ul>
