@@ -47,22 +47,10 @@
         <li><a href="https://ccet-ticketing.netlify.app/" target="_blank" rel="noopener noreferrer">Ticket Booking System</a></li>
     </ul>
     <ul>
-        <li><a href="https://github.com/KalanaTharusha/Food_App_v03" target="_blank" rel="noopener noreferrer">Food ordering mobile app - Android</a></li>
+        <li><a href="https://github.com/iamkalana/Food_App" target="_blank" rel="noopener noreferrer">Food ordering mobile app - Android</a></li>
     </ul>
     <ul>
         <li><a href="https://aircraft-kalana.netlify.app/" target="_blank" rel="noopener noreferrer">Aircraft</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://github.com/KalanaTharusha/heart-disease-project" target="_blank" rel="noopener noreferrer">Predicting heart disease using machine learning</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://github.com/KalanaTharusha/bulldozer-price-prediction-project" target="_blank" rel="noopener noreferrer">Predicting bulldozer prices using machine learning (Kaggle Competition)</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://github.com/KalanaTharusha/Grade-Submission-API" target="_blank" rel="noopener noreferrer">Grade Submission API</a></li>
-    </ul>
-     <ul>
-        <li><a href="https://github.com/KalanaTharusha/cricket_database" target="_blank" rel="noopener noreferrer">Cricket Database - Console App (Python/MySQL)</a></li>
     </ul>
 </p>
 
