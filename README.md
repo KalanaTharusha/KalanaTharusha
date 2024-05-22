@@ -35,6 +35,10 @@
                 <abbr title="Object Oriented Software Engineering">OOSE</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/COMP2006" target="_blank" rel="noopener noreferrer">
                 <abbr title="Operating Systems">OS</abbr></a></td>
+            <td><a href="https://github.com/KalanaTharusha/COMP3003" target="_blank" rel="noopener noreferrer">
+                <abbr title="Software Engineering Concepts">SEC</abbr></a><br> 
+                <a href="https://github.com/KalanaTharusha/COMP3008" target="_blank" rel="noopener noreferrer">
+                <abbr title="Distributed Computing(.NET)">DC</abbr></a></td>
         </tr>
     </tbody>
     
