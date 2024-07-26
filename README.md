@@ -39,6 +39,9 @@
                 <abbr title="Software Engineering Concepts">SEC</abbr></a><br> 
                 <a href="https://github.com/KalanaTharusha/COMP3008" target="_blank" rel="noopener noreferrer">
                 <abbr title="Distributed Computing(.NET)">DC</abbr></a></td>
+            <td><a href="https://github.com/KalanaTharusha/COMP3010" target="_blank" rel="noopener noreferrer">
+                <abbr title="Machine Learning">ML</abbr></a></td>
+
         </tr>
     </tbody>
     
