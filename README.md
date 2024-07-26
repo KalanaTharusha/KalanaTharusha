@@ -40,7 +40,9 @@
                 <a href="https://github.com/KalanaTharusha/COMP3008" target="_blank" rel="noopener noreferrer">
                 <abbr title="Distributed Computing(.NET)">DC</abbr></a></td>
             <td><a href="https://github.com/KalanaTharusha/COMP3010" target="_blank" rel="noopener noreferrer">
-                <abbr title="Machine Learning">ML</abbr></a></td>
+                <abbr title="Machine Learning">ML</abbr></a><br>
+                <a href="https://github.com/KalanaTharusha/Capstone-Computing-Project" target="_blank" rel="noopener noreferrer">
+                <abbr title="Capstone Computing Project">CCP</abbr></a></td>
         </tr>
     </tbody>
     
