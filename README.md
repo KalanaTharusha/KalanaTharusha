@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalana</h1>
 <h3 align="center">Undergraduate at Curtin University Australia.</h3>
-<p><H4>Hi, I'm Kalana. I am a final year Software Engineering Student at Curtin University Australia. Programming units that I have completed so far in below repos.</H4></p>
+<p><H4>Hi, I'm Kalana. I am a final year Software Engineering Student at Curtin University Australia. Programming units that I have completed in below repos.</H4></p>
 
 <table>
     <thead>
@@ -41,7 +41,6 @@
                 <abbr title="Distributed Computing(.NET)">DC</abbr></a></td>
             <td><a href="https://github.com/KalanaTharusha/COMP3010" target="_blank" rel="noopener noreferrer">
                 <abbr title="Machine Learning">ML</abbr></a></td>
-
         </tr>
     </tbody>
     
