@@ -50,6 +50,9 @@
 
 <p>
     <ul>
+        <li><a href="https://github.com/KalanaTharusha/Capstone-Computing-Project" target="_blank" rel="noopener noreferrer">Curtin Assist - Student Support System</a></li>
+    </ul>
+    <ul>
         <li><a href="https://ccet-ticketing.netlify.app/" target="_blank" rel="noopener noreferrer">Ticket Booking System</a></li>
     </ul>
     <ul>
