@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalana</h1>
-<h3 align="center">Software Engineer.</h3>
+<h3 align="center">Software Engineer...</h3>
 <p><H4>Hi, I'm Kalana. I completed my bachelor's degree with Bachelor of Computing in Software Engineering at Curtin University Australia. Programming units that I have completed in below repos.</H4></p>
 
 <table>
